@@ -14,8 +14,9 @@ export default function Display() {
 
   return (
     <div>
+      <p>Products</p>
       {products.map(product => (
-        <div key={product._id}>
+        <div key={product._id} style={{ border: '1px solid black' }}>
           <p>{product.image}</p>
           <p>{product.name}</p>
           <p>{product.info}</p>
