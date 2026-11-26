@@ -34,6 +34,7 @@ npm install cors
 ```
 
 ---
+
 now i want to create like this
 reviews i can create using forms
 and that reviews should be stored in mongodb
@@ -43,3 +44,9 @@ there is search button to search reviews
 C - Create reviews
 R - Read reviews + Search
 D - Delete reviews
+
+---
+
+i am asking chatgpt a challenge and doing that, its fun
+
+---
